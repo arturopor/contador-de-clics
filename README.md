@@ -1,3 +1,12 @@
+
+# ===== Mis notas =====
+npm create vite@latest
+Siempre Javascript + SWC.
+npm run dev
+
+2023/11/19: momento 03:52h del vídeo. A por la calculadora, terminado el de clics.
+Lo nuevo de este es lo de usar eventos, que se usa el click, los hooks con el useState (parecido a lo del binding del curso de angular).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
